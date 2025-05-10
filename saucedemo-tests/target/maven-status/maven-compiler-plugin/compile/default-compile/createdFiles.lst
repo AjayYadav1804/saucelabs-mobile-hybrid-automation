@@ -1,0 +1,12 @@
+com\saucedemo\utils\ScreenshotUtils.class
+com\saucedemo\utils\ExtentReportManager.class
+com\saucedemo\pageobjects\InventoryPage.class
+com\saucedemo\utils\EmailSender$1.class
+com\saucedemo\utils\EmailSender.class
+com\saucedemo\utils\ExcelUtils.class
+com\saucedemo\pageobjects\Actions.class
+com\saucedemo\pageobjects\CartPage.class
+com\saucedemo\pageobjects\CheckoutPage.class
+com\saucedemo\utils\LoggingUtils.class
+com\saucedemo\pageobjects\LogoutPage.class
+com\saucedemo\pageobjects\LoginPage.class
