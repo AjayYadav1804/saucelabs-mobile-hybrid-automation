@@ -120,8 +120,8 @@ mvn test -Dtest=EndToEndTest
 - Step-by-step execution logs
 
 Here is the Extent report overview:
-![Image](https://github.com/user-attachments/assets/df45b687-a6c4-4215-9532-8debf4eaba2b)
-![Image](https://github.com/user-attachments/assets/d9c24ea2-1512-4ae1-a78b-210d8d004c8d)
+![Image](https://github.com/user-attachments/assets/d7e54384-13f7-4514-abd7-75462038443a)
+![Image](https://github.com/user-attachments/assets/87c788a6-afb7-4138-92b0-0b84fe37c68e)
 
 
 ## 🔍 Logging
